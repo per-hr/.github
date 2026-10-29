@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://per.hr"><img src="https://per.hr/per.hr.icon.png" width="72" alt="per.hr"></a>
-</p>
-
-<h3 align="center">Time tracking, invoicing and payments for freelancers and small teams</h3>
+<a href="https://per.hr"><img src="https://per.hr/share.png?v=3" alt="per.hr: track your hours and get paid for every one. Time tracking, invoices and online payments for freelancers and small teams." width="100%"></a>
 
 <p align="center">
   <a href="https://per.hr">per.hr</a> ·
