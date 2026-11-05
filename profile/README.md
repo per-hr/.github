@@ -1,4 +1,4 @@
-<a href="https://per.hr"><img src="https://per.hr/share.png?v=3" alt="per.hr: track your hours and get paid for every one. Time tracking, invoices and online payments for freelancers and small teams." width="100%"></a>
+<a href="https://per.hr/features/ai-assisted-development"><img src="https://raw.githubusercontent.com/per-hr/claude-code-plugin/main/assets/banner.jpg" alt="per.hr AI-assisted development (beta): bill for work you ship with Claude Code. per.hr records your Claude Code sessions: your time, agent time, compute and what shipped." width="100%"></a>
 
 <p align="center">
   <a href="https://per.hr">per.hr</a> ·
@@ -15,7 +15,7 @@ Bill for the work you ship with Claude Code. The plugin records each session aga
 
 ```bash
 claude plugin marketplace add per-hr/claude-code-plugin
-claude plugin install perhr@perhr --scope project
+claude plugin install perhr@perhr --scope user
 ```
 
 Then start work on an item with `/perhr:start PAY-214` and finish with `/perhr:done`. Your prompts and code stay on your computer.
